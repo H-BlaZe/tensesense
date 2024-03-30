@@ -16,7 +16,7 @@ This repository contains a Python codebase designed to identify the tense of a g
 1. Clone this repository using Git.
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/H-BlaZe/tensesense.git
    ```
 
 2. Open a terminal or command prompt and navigate to the directory containing the code.
